@@ -1,0 +1,4 @@
+Linux Mint 20.3 Una
+
+$ g++ include/Computer.h include/MyTime.h include/ComputerClub.h src/Computer.cpp src/MyTime.cpp src/main.cpp -std=c++2a -o task
+$./task test_files/<test_file_name>.txt
